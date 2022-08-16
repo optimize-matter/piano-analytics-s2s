@@ -44,7 +44,7 @@ ___TEMPLATE_PARAMETERS___
       {
         "type": "TEXT",
         "name": "collection_domain",
-        "displayName": "Domaine de collecte AT Internet",
+        "displayName": "Collection Domain",
         "simpleValueType": true,
         "alwaysInSummary": false,
         "valueHint": "your.collection.domain",
@@ -53,7 +53,7 @@ ___TEMPLATE_PARAMETERS___
       {
         "type": "TEXT",
         "name": "visitor_id",
-        "displayName": "ID du visiteur",
+        "displayName": "Visitor ID",
         "simpleValueType": true,
         "help": "Unique identifier of the visitor. GUID recommended",
         "valueHint": "9e8d6d5f-143a-4a21-a7d5-7348b56e130d",
