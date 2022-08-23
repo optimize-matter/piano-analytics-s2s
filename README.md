@@ -39,7 +39,5 @@ You should only populate the values required in the front tag.
 If your front tag is sending a "site id", it will use this value. Else, you should specify it in the server tag.
 
 ## What's next
-Your contact at Piano Analytics should be aware if you are using these templates.
-If anything, you should contact them.
 
 Minor improvements might be made here, though we expect our templates to be available in the gallery soon.
