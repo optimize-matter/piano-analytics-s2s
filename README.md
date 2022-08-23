@@ -2,7 +2,7 @@
 
 > Disclaimer : this repository is expected to be used by power user of both sGTM and GTM.
 >
-> Moreso, the templates and their content will be in French as per specified by the platform.
+> Moreso, the templates and their content will be in English as per specified by the partner.
 
 ## Summary
 
