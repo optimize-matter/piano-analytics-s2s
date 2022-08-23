@@ -115,6 +115,8 @@ if ("/pa" == requestPath) {
       event.data.device_screen_height = eventModel.device_screen.split('x')[1];
       event.data.device_display_width = eventModel.device_display.split('x')[0];
       event.data.device_display_height = eventModel.device_display.split('x')[1];
+      event.data.device_model = eventModel.device_model;
+      event.data.device_manufacturer = eventModel.device_manufacturer;      
       event.data.page_url = eventModel.page_url;
       event.data.previous_url = eventModel.previous_url;
       event.data.visitor_privacy_consent = eventModel.visitor_privacy_consent == "true" ? true : false;
