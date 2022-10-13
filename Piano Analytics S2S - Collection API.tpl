@@ -166,7 +166,7 @@ if(!!event_data && !!event_name && !event_copy){
 }
 else if (!!eventModel.events && event_copy) eventObj = eventModel.events;
 
-const eventRequest = {events: eventObj};
+const eventRequest = {events: [eventObj]};
 
 let getData = {
   "s"  : site_id,
